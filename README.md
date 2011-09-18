@@ -1,10 +1,10 @@
 # Stipe
 
-    || _
-    ||//
-    ||/
-    ||
-    || STIPE
+      || _
+    _ ||//
+    \\||/
+     \|| STIPE
+      ||
 
 Distributed message queue as pipe
 
